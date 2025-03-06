@@ -9,7 +9,11 @@ Information to show:
 	1. input number
 1. date
 1. time
-1. priority
+1. priority: color coded
+	1. green: low priority
+	1. yellow: medium priority
+	1. red: urgent/ critical/ high priority
+	1. blue: SLA Exclusion/ Excluded (means that it doesn't really matter when it's done)
 1. description
 1. who submitted
 1. assignee
@@ -25,10 +29,7 @@ Information to show:
 1. what is planned
 
 1. color codeing
-	1. green: low priority
-	1. yellow: medium priority
-	1. red: urgent/ critical/ high priority
-	1. blue: SLA Exclusion/ Excluded (means that it doesn't really matter when it's done)
+
 
 1. status
 
