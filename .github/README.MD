@@ -27,3 +27,10 @@
 **- ?**
  	**-hou-wk-___ cmb**
 	**HOU-LK- ___**
+
+-Categorize on problem type
+	- hardware
+	-software
+	-accounts issues
+	-network
+	-other
