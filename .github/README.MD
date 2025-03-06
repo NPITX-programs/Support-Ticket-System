@@ -23,8 +23,14 @@
 1. problem
 1. what has been done
 1. what is planned
+# User Input
+1. Workstation
+1. Description
+1. Problem Type
+1. assignee
+1. submiter name
 
-other notes:
+# other notes:
 1. categorize output on problem type
 	1.  hardware
 	1. software
