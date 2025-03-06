@@ -1,3 +1,7 @@
+key notes:
+must be editable
+others? ask as needed
+
 Information to show: 	
 1. Workstation
 	1. uses hou-wk for desktops, and hou-lk for laptops
