@@ -9,3 +9,9 @@
 	-problem
 	-what has been done
 	-what is planned
+
+-color codeing
+	- green: low priority
+	- yellow: medium priority
+	- red: urgent/ critical/ high priority
+	- blue: SLA Exclusion/ Excluded (means that it doesn't really matter when it's done)
