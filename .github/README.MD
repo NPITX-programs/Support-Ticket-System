@@ -1,5 +1,8 @@
 Information to show: 	
 1. Workstation
+	1. uses hou-wk for desktops, and hou-lk for laptops
+	1. choose via combo buttons
+	1. input number
 1. date
 1. time
 1. priority
