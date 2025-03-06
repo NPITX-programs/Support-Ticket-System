@@ -1,1 +1,11 @@
-Information Readme
+-Workstation
+	-date
+	-time
+	-priority
+	-description
+	-who submitted
+	- assignee
+	-status
+	-problem
+	-what has been done
+	-what is planned
