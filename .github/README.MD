@@ -32,10 +32,10 @@
 
 # other notes:
 1. categorize output on problem type
-	1.  hardware
-	1. software
-	1. accounts issues
-	1. network
-	1. other
+   1.  hardware
+   1. software
+   1. accounts issues
+   1. network
+   1. other
 1. must be editable
 1. more?
