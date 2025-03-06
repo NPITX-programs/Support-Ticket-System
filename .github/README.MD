@@ -1,14 +1,15 @@
+Information to show: 	
 1. Workstation
-	1. date
-	1. time
-	1. priority
-	1. description
-	1. who submitted
-	1. assignee
-	1. status
-	1. problem
-	1. what has been done
-	1. what is planned
+1. date
+1. time
+1. priority
+1. description
+1. who submitted
+1. assignee
+1. status
+1. problem
+1. what has been done
+1. what is planned
 
 1. color codeing
 	1. green: low priority
