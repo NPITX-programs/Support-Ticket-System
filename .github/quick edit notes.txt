@@ -1,0 +1,3 @@
+workstation is actually part of input, not special
+
+the hou-wk and hou-lk is for workstations, and use combo boxes
