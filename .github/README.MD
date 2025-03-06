@@ -15,3 +15,11 @@
 	- yellow: medium priority
 	- red: urgent/ critical/ high priority
 	- blue: SLA Exclusion/ Excluded (means that it doesn't really matter when it's done)
+
+-status
+	-new
+	-assigned
+	-in progress
+	- waiting on customer
+	-waiting on 3rd partys
+	-completed
