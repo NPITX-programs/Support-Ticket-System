@@ -1,7 +1,3 @@
-key notes:
-must be editable
-others? ask as needed
-
 Information to show: 	
 1. Workstation
 	1. uses hou-wk for desktops, and hou-lk for laptops
@@ -28,19 +24,12 @@ Information to show:
 1. what has been done
 1. what is planned
 
-1. color codeing
-
-
-1. status
-
-
-1. **- ?**
- 	1. **-hou-wk-___ cmb**
-	1. **HOU-LK- ___**
-
-1. Categorize on problem type
+other notes:
+1. categorize output on problem type
 	1.  hardware
 	1. software
 	1. accounts issues
 	1. network
 	1. other
+1. must be editable
+1. more?
