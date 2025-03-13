@@ -2,4 +2,5 @@ the flowcharts need minor improvments, as do a few other things.
 
 so, that shall be done (official done)
 perform other edits?: 
-.gitignore? other .files? more?
+.gitignore?:
+other .files? more?
