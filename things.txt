@@ -2,5 +2,5 @@ the flowcharts need minor improvments, as do a few other things.
 
 so, that shall be done (official done)
 perform other edits?: 
-.gitignore?: temporarily remove .gitignore to allow blank slate for createing new one. Make the GitHub version of the preset. Make the visual studio preset design. placeholder names.
+.gitignore?: temporarily remove .gitignore to allow blank slate for createing new one. Make the GitHub version of the preset. Make the visual studio preset design. placeholder names. add .gitignore
 other .files? more?
