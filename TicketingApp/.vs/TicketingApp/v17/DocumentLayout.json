@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Students_Folder\\Husam Eghneim\\App Dev 1\\TicketingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9257137-7BF6-47DF-A356-0AF1CA1BAFAD}|TicketingApp.csproj|h:\\students_folder\\husam eghneim\\app dev 1\\ticketingapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9257137-7BF6-47DF-A356-0AF1CA1BAFAD}|TicketingApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9257137-7BF6-47DF-A356-0AF1CA1BAFAD}|TicketingApp.csproj|H:\\Students_Folder\\Husam Eghneim\\App Dev 1\\TicketingApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9257137-7BF6-47DF-A356-0AF1CA1BAFAD}|TicketingApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9257137-7BF6-47DF-A356-0AF1CA1BAFAD}|TicketingApp.csproj|H:\\Students_Folder\\Husam Eghneim\\App Dev 1\\TicketingApp\\newticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9257137-7BF6-47DF-A356-0AF1CA1BAFAD}|TicketingApp.csproj|solutionrelative:newticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "H:\\Students_Folder\\Husam Eghneim\\App Dev 1\\TicketingApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "H:\\Students_Folder\\Husam Eghneim\\App Dev 1\\TicketingApp\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAkwMQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:41:01.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewTicket.cs",
+              "DocumentMoniker": "H:\\Students_Folder\\Husam Eghneim\\App Dev 1\\TicketingApp\\NewTicket.cs",
+              "RelativeDocumentMoniker": "NewTicket.cs",
+              "ToolTip": "H:\\Students_Folder\\Husam Eghneim\\App Dev 1\\TicketingApp\\NewTicket.cs",
+              "RelativeToolTip": "NewTicket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:22:21.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "H:\\Students_Folder\\Husam Eghneim\\App Dev 1\\TicketingApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "H:\\Students_Folder\\Husam Eghneim\\App Dev 1\\TicketingApp\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:33:47.116Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
