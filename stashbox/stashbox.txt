@@ -1,0 +1,4 @@
+this contains a folder that is ignored via the .gitignore
+that way, files in here are ignored by GitHub, and can therefore stay despite not being in commits
+
+do note, the name will be explained later, as well as a better description being applied
