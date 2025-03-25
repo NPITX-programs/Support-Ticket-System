@@ -1,2 +1,0 @@
-this contains a folder that is ignored via the .gitignore
-that way, files in here are ignored by GitHub, and can therefore stay despite not being in commits
