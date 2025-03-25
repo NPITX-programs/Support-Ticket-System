@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TicketingSystem.Properties
+namespace TicketingApp.Properties
 {
 
 
