@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("TicketingSystem")]
+[assembly: AssemblyTitle("TicketingApp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("nonPareil Institute")]
-[assembly: AssemblyProduct("TicketingSystem")]
+[assembly: AssemblyProduct("TicketingApp")]
 [assembly: AssemblyCopyright("Copyright © nonPareil Institute 2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("4077bf1d-e0bb-4359-9c0c-529d756c64de")]
+[assembly: Guid("f9257137-7bf6-47df-a356-0af1ca1bafad")]
 
 // Version information for an assembly consists of the following four values:
 //
